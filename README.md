@@ -50,25 +50,27 @@ URL: http://server-ip:3000
 Username: admin
 Password: admin123
 
-GPU Metrics Available
+## GPU Metrics Available
 
-Metric	Description
-DCGM_FI_DEV_GPU_TEMP	GPU Temperature (C)
-DCGM_FI_DEV_POWER_USAGE	Power Draw (W)
-DCGM_FI_DEV_GPU_UTIL	GPU Utilization (%)
-DCGM_FI_DEV_FB_USED	GPU Memory Used (MB)
+| Metric | Description |
+|--------|-------------|
+| DCGM_FI_DEV_GPU_TEMP | GPU Temperature (C) |
+| DCGM_FI_DEV_POWER_USAGE | Power Draw (W) |
+| DCGM_FI_DEV_GPU_UTIL | GPU Utilization (%) |
+| DCGM_FI_DEV_FB_USED | GPU Memory Used (MB) |
 
-Lab Environment
+## Lab Environment
 
-Component	Specification
-Server	Dell R640
-GPU	NVIDIA Tesla T4 (16GB)
-RAM	768GB
-Storage	2TB NVMe
-OS	Ubuntu 24.04 LTS
-Kubernetes	K3s v1.34.4
-Driver	NVIDIA 535.288.01
-CUDA	12.2
+| Component | Specification |
+|-----------|---------------|
+| Server | Dell R640 |
+| GPU | NVIDIA Tesla T4 (16GB) |
+| RAM | 768GB |
+| Storage | 2TB NVMe |
+| OS | Ubuntu 24.04 LTS |
+| Kubernetes | K3s v1.34.4 |
+| Driver | NVIDIA 535.288.01 |
+| CUDA | 12.2 |
 
 Skills Demonstrated
 
