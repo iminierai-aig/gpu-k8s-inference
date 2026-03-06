@@ -1,0 +1,13 @@
+ACME Corporation Employee Handbook 2026
+
+Chapter 1: Remote Work Policy
+Employees may work remotely up to 3 days per week with manager approval. Remote workers must be available during core hours (10am-3pm local time). A stable internet connection and dedicated workspace are required.
+
+Chapter 2: PTO Policy
+Full-time employees receive 20 days of paid time off per year. PTO accrues at 1.67 days per month. Unused PTO may be carried over up to 5 days into the next year. PTO requests must be submitted at least 2 weeks in advance for periods longer than 3 days.
+
+Chapter 3: Benefits
+Health insurance is provided at no cost to employees. Dental and vision coverage is available with employee contribution. 401(k) matching is provided at 4% of salary. Parental leave is 16 weeks fully paid.
+
+Chapter 4: AI and Technology Use
+Employees may use AI tools for work purposes with appropriate oversight. Confidential company data should not be shared with external AI services. All AI-generated content must be reviewed before external distribution.
